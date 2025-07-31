@@ -1,3 +1,3 @@
-﻿# StopMotion1
-Animação no Pivot representando um cenário em que o cliente e o desenvolvedor não intendem corretamente o que é o produto.
-Animação desenvolvida por GGG Enterprise Corporation(Gabriel Souza, Gustavo Lima e Gustavo Minguta).
+﻿# Apresentação em Stop Motion
+Animação em stop motion realizada no programa Pivot representando um cenário comum em que o cliente e o desenvolvedor tiram conclusões diferentes sobre o que é o produto.
+Trabalho de Faculdade desenvolvido por Gabriel Souza, Gustavo Lima e Gustavo Minguta.
